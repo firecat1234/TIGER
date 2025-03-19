@@ -1,0 +1,19 @@
+# A sample gestures.toml file
+
+[[gesture]]
+name = "MyPeace"
+thumb_extended = false
+index = true
+middle = true
+ring = false
+pinky = false
+action = "k:W"          # Example: press W
+
+[[gesture]]
+name = "ThumbsUp"
+thumb_extended = true
+index = false
+middle = false
+ring = false
+pinky = false
+action = "k:ENTER"
